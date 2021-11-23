@@ -29,7 +29,7 @@ Team Members :
   pip install pygame 
   ```
 3. Goto `src` folder
-4. Launch `main.py` file
+4. Run `main.py` file
   ```sh
   python main.py 
   ```
